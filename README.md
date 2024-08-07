@@ -7,7 +7,6 @@ I’m looking to collaborate on UX/UI Design, Micro Interaction, Animation, Reac
 
 I have a solid web development background in HTML, CSS/SCSS, JavaScript, and ReactJS. Currently, I am converting a large design system into ReactJS components at my company. This involves creating modern variables and tokenizations, and synchronizing updates between Figma and React components to maintain a single source of truth. These components are maintained in Storybook, ensuring isolation from backend logic and data. We utilize Bootstrap and other modern technologies to enhance our brand style's flexibility and value, ultimately saving time for our developer teams.
 
-### My manager won’t have to babysit me.
-
 ###### PORTFOLIO:
+
 Here's [my portfolio link on Figma](https://www.figma.com/design/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?t=sxuolFiwFFL5gPVA-0) while my actual website is under construction.
