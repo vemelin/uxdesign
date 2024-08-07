@@ -1,5 +1,5 @@
 ### 👋 Greetings,
-## My name is **Vasiliy**, and I'm a Product & UI/UX Designer.
+### 🙋‍♂️ My name is **Vasiliy**, and I'm a Product & UI/UX Designer.
 
 With over 10 years of UX/UI Design experience, I have a strong portfolio and expertise in user interface design, interaction design, visual design, usability, UX research, AB testing, wireframing, and prototyping. I work closely with product and engineering teams to deliver top-notch user experiences for web and mobile applications. I embrace constructive criticism, clearly articulate design decisions, and prioritize solving business goals while understanding user needs. I can work independently and efficiently with engaging clients for feedback and incorporating UX research into decisions. I proactively address potential blockers and take the initiative to drive ideas during the exploration phase.
 
