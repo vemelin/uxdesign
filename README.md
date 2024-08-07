@@ -1,7 +1,12 @@
-👋 Hello there, I’m Vasiliy Emelin, UX/UI Designer.
+👋 Greetings,
+🙋‍♂️ ##My name is **Vasiliy**, and I'm a Product & UI/UX Designer.
 
-More than 10 years of huge experience in UX/UI Design with a strong portfolio and strong skills in user interface design, interaction design, visual design, usability, UX research, AB testing, wireframing, and prototyping. Regular collaboration with product and engineering teams to provide and deliver high-quality user experiences through the design of the customer-facing web application and user interface.
+With over 10 years of UX/UI Design experience, I have a strong portfolio and expertise in user interface design, interaction design, visual design, usability, UX research, AB testing, wireframing, and prototyping. I work closely with product and engineering teams to deliver top-notch user experiences for web and mobile applications. I embrace constructive criticism, clearly articulate design decisions, and prioritize solving business goals while understanding user needs. I can work independently and efficiently with engaging clients for feedback and incorporating UX research into decisions. I proactively address potential blockers and take the initiative to drive ideas during the exploration phase.
 
-I'm always embracing constructive criticism as part of the design process and can clearly articulate your design decisions. My priority is to solve business goals and understand users' needs. I can perform well-defined tasks with full independence and increasing pace. I'm engaged with the processing to get inputs or feedback from the clients as real users during communications with them and making decisions with the UX research.
+I’m looking to collaborate on UX/UI Design, Micro Interaction, Animation, ReactJS, JavaScript, HTML, and CSS/SCSS.
 
-💞️ I’m looking to collaborate on UX/UI Design, Micro Interaction, Animation, React JS, JavaScript, HTML, CSS/SCSS
+I have a solid web development background in HTML, CSS/SCSS, JavaScript, and ReactJS. Currently, I am converting a large design system into ReactJS components at my company. This involves creating modern variables and tokenizations, and synchronizing updates between Figma and React components to maintain a single source of truth. These components are maintained in Storybook, ensuring isolation from backend logic and data. We utilize Bootstrap and other modern technologies to enhance our brand style's flexibility and value, ultimately saving time for our developer teams.
+
+**My manager won’t have to babysit me**.
+
+Here's [my portfolio link on Figma](https://www.figma.com/design/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?t=sxuolFiwFFL5gPVA-0) while my actual website is under construction.
