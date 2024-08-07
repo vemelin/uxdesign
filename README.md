@@ -6,8 +6,8 @@ With over 10 years of UX/UI Design experience, I have a [strong portfolio](https
 I'm looking to collaborate on UI/UX Design, Micro Interaction, Animation, ReactJS, JavaScript, HTML, and CSS/SCSS.
 ```
 
-#### PORTFOLIO
+#### Portfolio
 Here's [my portfolio link on Figma](https://www.figma.com/design/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?t=sxuolFiwFFL5gPVA-0) while my actual website is under construction.
 
-#### DEV BACKGROUND
+#### Development background
 I have a solid web development background in HTML, CSS/SCSS, JavaScript, and ReactJS. Currently, I am converting a large design system into ReactJS components at my company. This involves creating modern variables and tokenizations, and synchronizing updates between Figma and React components to maintain a single source of truth. These components are maintained in Storybook, ensuring isolation from backend logic and data. We utilize Bootstrap and other modern technologies to enhance our brand style's flexibility and value, ultimately saving time for our developer teams.
