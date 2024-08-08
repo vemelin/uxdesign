@@ -17,7 +17,7 @@ Here's [my portfolio link on Figma](https://www.figma.com/design/ZcexdYabwNjPf6o
 
 6. [Rebate Buss Website project](https://www.figma.com/design/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?node-id=1408-11466&t=FjARYde0Ielq1tre-1){:target="_blank"}
 
-7. [Kerkman & Dunn attorney](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=1408%3A457&node-id=1408-752&viewport=4311%2C4805%2C0.51&t=lz7idYnobERu2sU7-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1408%3A752){:target="_blank"} also can be viewed the implemented version of the webiste https://kerkmandunn.com/
+7. [Kerkman & Dunn attorney](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=1408%3A457&node-id=1408-752&viewport=4311%2C4805%2C0.51&t=lz7idYnobERu2sU7-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1408%3A752){:target="_blank"} also can be viewed the implemented version of the webiste [kerkmandunn.com](https://kerkmandunn.com/){:target="_blank"}
 
 8. [Kerkman & Dunn attorney, extra concept](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=1408%3A457&node-id=1408-1198&viewport=4311%2C4805%2C0.51&t=lz7idYnobERu2sU7-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1408%3A1198){:target="_blank"}
 
