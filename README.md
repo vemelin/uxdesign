@@ -25,7 +25,7 @@ Here's [my portfolio link on Figma](https://www.figma.com/design/ZcexdYabwNjPf6o
 
 10. [Ally Manufactured Scaffolding website](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=0%3A1&node-id=3178-12362&viewport=340%2C-502%2C0.15&t=tsHgoipie7pHiZhP-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3178%3A12362){:target="_blank"}
 
-11. [Gazprom Bank Design](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=259%3A29&node-id=3178-23363&viewport=578%2C475%2C0.02&t=SSmj3SlZDxhowIRG-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3178%3A23363){:target="_blank"}
+11. [Gazprom Bank Design](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=259%3A29&node-id=3178-23363&viewport=578%2C475%2C0.02&t=SSmj3SlZDxhowIRG-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3178%3A23363){:target="_blank"}
 
 12. [Ignite Application Dashboards for Automotive Dealerships](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=240%3A5&node-id=3178-26802&viewport=738%2C456%2C0.06&t=XmQj9sISYq1l3ZJT-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3178%3A26802){:target="_blank"}
 
