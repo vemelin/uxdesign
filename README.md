@@ -4,8 +4,6 @@
 
 With over 10 years of UX/UI Design experience, I have a [strong portfolio](https://www.figma.com/design/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?t=sxuolFiwFFL5gPVA-0){:target="_blank"} and expertise in user interface design, interaction design, visual design, usability, UX research, AB testing, wireframing, and prototyping. I work closely with product and engineering teams to deliver top-notch user experiences for web and mobile applications. I embrace constructive criticism, clearly articulate design decisions, and prioritize solving business goals while understanding user needs. I work independently and efficiently, engaging clients for feedback and incorporating UX research into decisions. I collaborate effectively with my team, delegate tasks to enhance efficiency in large projects, proactively address potential blockers, and take the initiative to drive ideas during the exploration phase.
 
-```I'm looking to collaborate on UI/UX Design, Micro Interaction, Animation, ReactJS, JavaScript, HTML, and CSS/SCSS.```
-
 #### Portfolio
 Here's [my portfolio link on Figma](https://www.figma.com/design/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?t=sxuolFiwFFL5gPVA-0){:target="_blank"} while my actual website is under construction.
 
@@ -36,5 +34,7 @@ Here's [my portfolio link on Figma](https://www.figma.com/design/ZcexdYabwNjPf6o
 
 #### Front-end development background
 I have a solid web development background in HTML, CSS/SCSS, JavaScript, and React JS. Currently, I am converting a large design system into ReactJS components at my company. This involves creating modern variables and tokenizations, and synchronizing updates between Figma and React components to maintain a single source of truth. These components are maintained in Storybook, ensuring isolation from backend logic and data. We utilize Bootstrap and other modern technologies to enhance our brand style's flexibility and value, ultimately saving time for our developer teams.
+
+```I'm looking to collaborate on UI/UX Design, Micro Interaction, Animation, ReactJS, JavaScript, HTML, and CSS/SCSS.```
 
 For more information, please contact me via my [LinkedIn profile](https://www.linkedin.com/in/vemelin/){:target="_blank"}.
