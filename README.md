@@ -3,7 +3,7 @@
 With over 10 years of UX/UI Design experience, I have a [strong portfolio](https://www.figma.com/design/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?t=sxuolFiwFFL5gPVA-0){:target="_blank"} and deep expertise in user interface design, interaction design, visual design, usability, UX research, AB testing, wireframing, and prototyping. I work closely with product and engineering teams to deliver exceptional user experiences for web and mobile applications. I embrace constructive criticism, clearly articulate design decisions, and focus on solving business goals while understanding user needs. I excel at working independently and efficiently, engaging clients for feedback, and incorporating UX research into decisions. Additionally, I collaborate effectively with my team, delegate tasks to enhance efficiency in large projects, proactively address potential blockers, and take the initiative to drive ideas during the exploration phase.
 
 ### Resume
-Here is my [Curriculum Vitae in PDF format](https://www.execute.design/assets/resume.pdf){:target="_blank"}
+Here is my [Resume in PDF format](https://www.execute.design/assets/resume.pdf){:target="_blank"}
 
 #### Portfolio
 Here's [my portfolio link on Figma](https://www.figma.com/design/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?t=sxuolFiwFFL5gPVA-0){:target="_blank"} while my actual website is under construction.
