@@ -7,7 +7,7 @@ With over 10 years of UX/UI Design experience, I have a [strong portfolio](https
 
 #### Portfolio
 
-1. [BulkSignature helps to create professional email signatures and provides company-wide management of email signatures in your Google Workspace (G Suite).](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=3519%3A2&node-id=3559-4745&node-type=CANVAS&viewport=947%2C-2979%2C0.28&t=BXefPYfA3VPmFyzE-1&scaling=scale-down-width&content-scaling=fixed){:target="_blank"}, [Website www.bulksignature.com](https://bulksignature.com/){:target="blank"}
+1. [BulkSignature helps to create professional email signatures and provides company-wide management of email signatures in your Google Workspace (G Suite)](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=3519%3A2&node-id=3559-4745&node-type=CANVAS&viewport=947%2C-2979%2C0.28&t=BXefPYfA3VPmFyzE-1&scaling=scale-down-width&content-scaling=fixed){:target="_blank"}, website [www.bulksignature.com](https://bulksignature.com/){:target="blank"}
 
 2. [TenTrucks — Fleet Driver Experience](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=2108%3A1236&node-id=2111-13872&viewport=1599%2C1046%2C0.14&t=9Ttcc1aBopCZCs5b-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=2111%3A13872){:target="_blank"}
 
