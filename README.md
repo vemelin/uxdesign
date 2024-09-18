@@ -9,6 +9,8 @@ With over 10 years of UX/UI Design experience, I have a strong portfolio and dee
 
 1. [BulkSignature helps to create professional email signatures and provides company-wide management of email signatures in your Google Workspace (G Suite)](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=3519%3A2&node-id=3559-4745&node-type=CANVAS&viewport=947%2C-2979%2C0.28&t=BXefPYfA3VPmFyzE-1&scaling=scale-down-width&content-scaling=fixed){:target="_blank"}, website [www.bulksignature.com](https://bulksignature.com/){:target="blank"}
 
+1. [Solera Fleet Solution Concept: Building an Innovative Fleet Solution (Use case currently under development – stay tuned for updates!)](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=3689%3A546&node-id=3689-1420&node-type=frame&viewport=918%2C592%2C0.08&t=Q9taOYgDJfiH4HwD-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3689%3A1420){:target="_blank"}, website [www.solera.com](https://www.solera.com/solutions/fleet-solutions/){:target="blank"}
+
 2. [TenTrucks — Fleet Driver Experience](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=2108%3A1236&node-id=2111-13872&viewport=1599%2C1046%2C0.14&t=9Ttcc1aBopCZCs5b-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=2111%3A13872){:target="_blank"}
 
 3. [Toyota OEM Dealership vehicle details page](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=2114%3A5187&node-id=2114-8125&viewport=790%2C464%2C0.07&t=iMqmaZYZuAugsgml-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=2114%3A8125){:target="_blank"}
