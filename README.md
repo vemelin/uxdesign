@@ -1,42 +1,70 @@
-## 👋 Hi there, <br> My name is Vasiliy, <br>I'm a Product & UI/UX Designer.
+# Getting Started with Create React App
 
-With over 10 years of UX/UI Design experience, I have a strong portfolio and deep expertise in user interface design, interaction design, visual design, usability, UX research, AB testing, wireframing, and prototyping. I work closely with product and engineering teams to deliver exceptional user experiences for web and mobile applications. I embrace constructive criticism, clearly articulate design decisions, and focus on solving business goals while understanding user needs. I excel at working independently and efficiently, engaging clients for feedback, and incorporating UX research into decisions. Additionally, I collaborate effectively with my team, delegate tasks to enhance efficiency in large projects, proactively address potential blockers, and take the initiative to drive ideas during the exploration phase.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Resume
-[Download Resume](https://www.execute.design/assets/resume.pdf){:target="_blank"}
+## Available Scripts
 
-#### Portfolio
+In the project directory, you can run:
 
-1. [BulkSignature helps to create professional email signatures and provides company-wide management of email signatures in your Google Workspace (G Suite)](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=3519%3A2&node-id=3559-4745&node-type=CANVAS&viewport=947%2C-2979%2C0.28&t=BXefPYfA3VPmFyzE-1&scaling=scale-down-width&content-scaling=fixed){:target="_blank"}, website [www.bulksignature.com](https://bulksignature.com/){:target="blank"}
+### `npm start`
 
-2. [TenTrucks — Fleet Driver Experience](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=2108%3A1236&node-id=2111-13872&viewport=1599%2C1046%2C0.14&t=9Ttcc1aBopCZCs5b-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=2111%3A13872){:target="_blank"}
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-3. [Toyota OEM Dealership vehicle details page](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=2114%3A5187&node-id=2114-8125&viewport=790%2C464%2C0.07&t=iMqmaZYZuAugsgml-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=2114%3A8125){:target="_blank"}
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-4. [Toyota OEM Search Result Page Design Concept](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=2882%3A24507&node-id=2882-26554&viewport=388%2C470%2C0.15&t=KpGJN4woCgkgSBwU-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=2882%3A26554){:target="_blank"}
+### `npm test`
 
-5. [Web cunstroctor, page builder tool](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=240%3A2&node-id=3178-11631&viewport=428%2C370%2C0.08&t=OueGmUsnpO3PhALW-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3178%3A11631){:target="_blank"}
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-6. [Aviapark business mall](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=240%3A396&node-id=3178-11666&viewport=1558%2C771%2C0.48&t=hnj6M1KqWy9h8jvq-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3178%3A11666){:target="_blank"}
+### `npm run build`
 
-7. [Rebate Buss Website project](https://www.figma.com/design/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?node-id=1408-11466&t=FjARYde0Ielq1tre-1){:target="_blank"}
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-8. [Kerkman & Dunn attorney](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=1408%3A457&node-id=1408-752&viewport=4311%2C4805%2C0.51&t=lz7idYnobERu2sU7-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1408%3A752){:target="_blank"} also can be viewed the implemented version of the webiste [kerkmandunn.com](https://kerkmandunn.com/){:target="_blank"}
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-9. [Kerkman & Dunn attorney, extra concept](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=1408%3A457&node-id=1408-1198&viewport=4311%2C4805%2C0.51&t=lz7idYnobERu2sU7-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1408%3A1198){:target="_blank"}
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-10. [Media Metrics Template](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=259%3A21&node-id=3178-12361&viewport=1143%2C882%2C0.44&t=TBcX0Qcg8Nkoz2TS-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3178%3A12361){:target="_blank"}
+### `npm run eject`
 
-11. [Ally Manufactured Scaffolding website](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=0%3A1&node-id=3178-12362&viewport=340%2C-502%2C0.15&t=tsHgoipie7pHiZhP-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3178%3A12362){:target="_blank"}
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-12. [Gazprom Bank Design](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=259%3A29&node-id=3178-23363&viewport=578%2C475%2C0.02&t=SSmj3SlZDxhowIRG-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3178%3A23363){:target="_blank"}
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-13. [Ignite Application Dashboards for Automotive Dealerships](https://www.figma.com/proto/ZcexdYabwNjPf6o6hl6g3tSm/portfolio?page-id=240%3A5&node-id=3178-26802&viewport=738%2C456%2C0.06&t=XmQj9sISYq1l3ZJT-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3178%3A26802){:target="_blank"}
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-#### Front-end development background
-I have a solid web development background in HTML, CSS/SCSS, JavaScript, and React JS. Currently, I am converting a large design system into ReactJS components at my company. This involves creating modern variables and tokenizations, and synchronizing updates between Figma and React components to maintain a single source of truth. These components are maintained in Storybook, ensuring isolation from backend logic and data. We utilize Bootstrap and other modern technologies to enhance our brand style's flexibility and value, ultimately saving time for our developer teams.
+## Learn More
 
-```I'm looking to collaborate on UI/UX Design, Micro Interaction, Animation, ReactJS, JavaScript, HTML, and CSS/SCSS.```
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-For more information, please contact me via my [LinkedIn profile](https://www.linkedin.com/in/vemelin/){:target="_blank"}.
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
