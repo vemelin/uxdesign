@@ -16,16 +16,16 @@ export const Grid = ({
 
       <div className={style.row}>
         <div className={style.left}>
-          <div>
+          <div className={style.rounded}>
             <img src={work2} />
           </div>
           <div className={style.row1}>
-            <div><img src={work3} /></div>
-            <div><img src={work4} /></div>
+            <div className={style.rounded}><img src={work3} /></div>
+            <div className={style.rounded}><img src={work4} /></div>
           </div>
         </div>
         
-        <div className={style.right}>
+        <div className={[style.right, style.rounded].join(' ')}>
           <img src={work1} />
         </div>
       </div>
