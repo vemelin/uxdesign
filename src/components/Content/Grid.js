@@ -1,6 +1,7 @@
 import style from './Grid.module.scss';
 import work1 from '../../portfolio_assets/buildSignature.png'
 import work2 from '../../portfolio_assets/example1.png'
+import work2_1 from '../../portfolio_assets/example1.jpg'
 import work3 from '../../portfolio_assets/example2.png'
 import work4 from '../../portfolio_assets/example3.png'
 import work5 from '../../portfolio_assets//fleetView.png'
@@ -15,7 +16,7 @@ export const Grid = ({
     <div className={style.content}>
 
       <div className={style.row}>
-        <div className={style.left}>
+        <div className={[style.left, style.rounded].join(' ')}>
           <div className={[style.rounded, style.firstImage].join(' ')}>
             <img src={work2} />
           </div>

@@ -10,7 +10,7 @@
   overflow: visible;
   padding: 10px 0;
   position: fixed;
-  width: 85%;
+  width: 900px;
   z-index: 1;
   margin: 0 auto;
   left: 50%;
@@ -145,5 +145,13 @@
     gap: 5px;
   }
   .navigation ul li a {
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 900px) {
+  .navigation {
+    width: 100%;
+    left: 50%;
+      transform: translateX(-50%);
   }
 }

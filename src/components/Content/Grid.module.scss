@@ -15,6 +15,12 @@
   align-self: stretch;
 }
 
+.content .rounded img {
+  display: flex;
+  // max-width:100%;
+// max-height:100%;
+}
+
 .content .row .left {
   display: flex;
   flex-direction: column;
@@ -26,8 +32,6 @@
 
 .content .row .right {
   display: flex;
-  // width: 658px;
-  // height: 718px;
   flex-direction: column;
   align-items: flex-start;
 }
@@ -37,15 +41,18 @@
   align-items: flex-start;
   gap: 24px;
   align-self: stretch;
+  // height: 347px;
 }
+
 .content .row1 > div {
   display: flex;
-  height: 347px;
+  // height: 347px;
   flex-direction: column;
   align-items: center;
   gap: 10px;
   flex: 1 0 0;
   background: #FFF;
+  // height: 150px;
 }
 
 .content .row .left, .content .row .right, .content .row1 > div {
@@ -56,8 +63,8 @@
 .content .rounded {
   display: flex;
   overflow: hidden;
-  width: 100%;
   border-radius: 30px !important;
+  width: 100%;
 }
 
 @media only screen and (min-width: 375px) and (max-width: 768px) {
@@ -100,7 +107,13 @@
   }
 
   .content .firstImage {
+    display: flex;
     height: 150px;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: space-between;
+    flex-direction: column;
   }
 
 }
