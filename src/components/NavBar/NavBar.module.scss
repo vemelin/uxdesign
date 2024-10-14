@@ -3,17 +3,18 @@
   align-items: center;
   bottom: 20px;
   display: flex;
-  flex: none;
   flex-direction: row;
   flex-wrap: nowrap;
   gap: 10px;
   justify-content: center;
-  left: calc(50.00000000000002% - 983px / 2);
   overflow: visible;
   padding: 10px 0;
   position: fixed;
-  width: 983px;
+  width: 85%;
   z-index: 1;
+  margin: 0 auto;
+  left: 50%;
+    transform: translateX(-50%);
 }
 
 .navigation .container {
@@ -24,14 +25,14 @@
   flex-direction: row;
   flex-wrap: nowrap;
   height: 54px;
-  overflow: visible;
   display: flex;
   padding: 2px 10px;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-evenly;
   gap: 10px;
-  flex: 1 0 0;
+  flex: 1 0;
   box-shadow: 0px 16px 50px -20px rgba(0, 0, 0, 0.25);
+  align-items: center;
+  margin: 0 auto;
 }
 
 .navigation .userName {
@@ -129,4 +130,20 @@
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+}
+
+@media only screen and (min-width: 375px) and (max-width: 768px) {
+  .navigation {
+    width: 85%;
+    left: 50%;
+      transform: translateX(-50%);
+  }
+  .navigation .userName, .navigation .contactMe {
+    display: none;
+  }
+  .navigation ul {
+    gap: 5px;
+  }
+  .navigation ul li a {
+  }
 }

@@ -16,7 +16,7 @@ export const Grid = ({
 
       <div className={style.row}>
         <div className={style.left}>
-          <div className={style.rounded}>
+          <div className={[style.rounded, style.firstImage].join(' ')}>
             <img src={work2} />
           </div>
           <div className={style.row1}>
@@ -31,21 +31,21 @@ export const Grid = ({
       </div>
 
       <div className={style.row}>
-        <div className={style.left}>
+        <div className={[style.left, style.rounded].join(' ')}>
             <img src={work5} />
         </div>
         
-        <div className={style.right}>
+        <div className={[style.right, style.rounded].join(' ')}>
           <img src={work6} />
         </div>
       </div>
 
       <div className={style.row}>
-        <div className={style.left}>
+        <div className={[style.left, style.rounded].join(' ')}>
             <img src={work7} />
         </div>
         
-        <div className={style.right}>
+        <div className={[style.right, style.rounded].join(' ')}>
           <img src={work8} />
         </div>
       </div>
