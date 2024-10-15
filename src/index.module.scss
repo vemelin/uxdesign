@@ -27,6 +27,7 @@ body {
 	line-height: 1;
   height: 100vh;
   background: conic-gradient(from 155deg at 34.24% -8.55%, rgba(31, 42, 140, 0.00) 0deg, rgba(22, 197, 252, 0.14) 360deg), #1D2F54;
+	background-attachment: fixed;
   // overflow-y: hidden;
 }
 ol, ul {

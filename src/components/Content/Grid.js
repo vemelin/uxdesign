@@ -1,13 +1,12 @@
 import style from './Grid.module.scss';
 import work1 from '../../portfolio_assets/buildSignature.png'
-import work2 from '../../portfolio_assets/example1.png'
-import work2_1 from '../../portfolio_assets/example1.jpg'
-import work3 from '../../portfolio_assets/example2.png'
-import work4 from '../../portfolio_assets/example3.png'
+import work2 from '../../portfolio_assets/example1.jpg'
+import work3 from '../../portfolio_assets/example2.jpg'
+import work4 from '../../portfolio_assets/example3.jpg'
 import work5 from '../../portfolio_assets//fleetView.png'
 import work6 from '../../portfolio_assets/toyotaOEM_LP.png'
 import work7 from '../../portfolio_assets/tenTrucks.png'
-import work8 from '../../portfolio_assets/kerkman.png'
+import work8 from '../../portfolio_assets/kerkman.jpg'
 
 export const Grid = ({
   ...props
