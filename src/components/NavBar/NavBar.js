@@ -1,7 +1,18 @@
 import React from 'react';
 import style from './NavBar.module.scss';
 
+import { motion } from "framer-motion";
+import { useState } from "react";
+
+let tabs = [
+  { id: "work", label: "Work" },
+  { id: "resume", label: "Resume" },
+  { id: "about", label: "About" },
+];
+
 export const NavBar = ({ ...props }) => {
+  let [activeTab, setActiveTab] = useState(tabs[0].id);
+
   return (
     <div className={style.navigation}>
       <div className={style.container}>
@@ -40,6 +51,30 @@ export const NavBar = ({ ...props }) => {
 
         <div className={style.links}>
           <ul>
+            {tabs.map((tab) => (
+              <li
+                key={tab.id}
+                onClick={() => setActiveTab(tab.id)}
+                className={`${
+                  activeTab === tab.id ? "" : "hover:text-white/60"
+                } relative rounded-full px-3 py-1.5 text-sm font-medium text-white outline-sky-400 transition focus-visible:outline-2`}
+                style={{
+                  WebkitTapHighlightColor: "transparent",
+                }}
+              >
+                {activeTab === tab.id && (
+                  <motion.span 
+                    layoutId="bubble"
+                    className={style.active}
+                    style={{ borderRadius: 9999 }}
+                    transition={{ type: "spring", bounce: 0.2, duration: 0.6 }}
+                  />
+                )}
+                <a href='#' className={[activeTab === tab.id  ? style.activeLink : ' '].join(' ')}>{tab.label}</a>
+              </li>
+            ))}
+          </ul>
+          {/* <ul>
             <li>
               <a href='#' className={style.active}>Work</a>
             </li>
@@ -49,7 +84,7 @@ export const NavBar = ({ ...props }) => {
             <li>
               <a href='#'>About</a>
             </li>
-          </ul>
+          </ul> */}
         </div>
 
         <div className={style.contactMe}>

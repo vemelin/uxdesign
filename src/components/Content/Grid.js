@@ -7,6 +7,7 @@ import work5 from '../../portfolio_assets//fleetView.jpg'
 import work6 from '../../portfolio_assets/ToyotaOEM_MLP.jpg'
 import work7 from '../../portfolio_assets/tenTrucks.png'
 import work8 from '../../portfolio_assets/kerkman.jpg'
+import work9 from '../../portfolio_assets/dealersocket_dashboard.jpg'
 
 export const Grid = ({
   ...props
@@ -66,6 +67,20 @@ export const Grid = ({
         <div className={[style.right, style.rounded].join(' ')}>
           <a href='https://www.figma.com/proto/1wkq1MuCHG11boDh849LQa/Portfolio?page-id=1408%3A457&node-id=1408-1198&node-type=canvas&viewport=538%2C609%2C0.06&t=LwSOphTivMZIq5fQ-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1408%3A1198&show-proto-sidebar=1' target='_blank'>
             <img src={work8} />
+          </a>
+        </div>
+      </div>
+
+      <div className={style.row}>
+        <div className={[style.left, style.rounded].join(' ')}>
+          <a href='https://www.figma.com/proto/1wkq1MuCHG11boDh849LQa/Portfolio?node-id=3178-11631&node-type=canvas&m=dev&scaling=scale-down-width&content-scaling=fixed&page-id=240%3A2&starting-point-node-id=3178%3A11631&t=Vj3nQhgSc1TRBhYZ-1' target='_blank'>
+            <img src={work9} />
+          </a>
+        </div>
+        
+        <div className={[style.right, style.rounded].join(' ')}>
+          <a href='#' target='_blank'>
+            {/* <img src={work8} /> */}
           </a>
         </div>
       </div>
