@@ -20,7 +20,7 @@
 .navigation .container {
   -webkit-backdrop-filter: blur(4px);
   backdrop-filter: blur(4px);
-  background: rgba(255, 255, 255, 0.7);
+  background: hsla(0, 0%, 90%, .6);
   border-radius: 100px;
   flex-direction: row;
   flex-wrap: nowrap;
