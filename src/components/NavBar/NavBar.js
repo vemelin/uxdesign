@@ -1,4 +1,5 @@
-import React from 'react';
+import {React} from 'react';
+import { Link } from "react-router-dom";
 import style from './NavBar.module.scss';
 
 import { motion } from "framer-motion";
@@ -70,7 +71,9 @@ export const NavBar = ({ ...props }) => {
                     transition={{ type: "spring", bounce: 0.2, duration: 0.6 }}
                   />
                 )}
-                <a href='#' className={[activeTab === tab.id  ? style.activeLink : ' '].join(' ')}>{tab.label}</a>
+                {/* <a href='#' className={[activeTab === tab.id  ? style.activeLink : ' '].join(' ')}>{tab.label}</a> */}
+                {/* <Link to={tab.id === 'work' ? '/' : tab.id}>{tab.label}</Link> */}
+                <Link to={tab.id}>{tab.label}</Link>
               </li>
             ))}
           </ul>

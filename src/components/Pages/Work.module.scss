@@ -1,0 +1,118 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  align-self: stretch;
+  padding: 0 25px;
+}
+
+.content .row {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 24px;
+  align-self: stretch;
+}
+
+.content .rounded img {
+  display: flex;
+  max-width:100%;
+// max-height:100%;
+}
+
+.content .row .left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 24px;
+  // flex: 1 0 0;
+}
+
+.content .row .right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.content .row1 {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  align-self: stretch;
+  // height: 347px;
+}
+
+.content .row1 > div {
+  display: flex;
+  // height: 347px;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  flex: 1 0 0;
+  // height: 150px;
+}
+
+.content .row .left, .content .row .right, .content .row1 > div {
+  overflow: hidden;
+  display: flex;
+}
+
+.content .rounded {
+  display: flex;
+  overflow: hidden;
+  border-radius: 30px !important;
+  width: 100%;
+}
+
+@media only screen and (min-width: 375px) and (max-width: 768px) {
+  .content .row {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 24px;
+    align-self: stretch;
+    flex-wrap: wrap;
+  }
+
+  .content .row1 {
+    // display: flex;
+    // align-items: flex-start;
+    // gap: 24px;
+    // align-self: stretch;
+    // flex-wrap: wrap;
+    // flex-direction: column;
+  }
+
+  .content .row1 > div {
+    height: 150px;
+  }
+
+  .content .row .left, .content .row .right {
+    // min-width: 375px;
+  }
+
+  .content .rounded {
+    display: flex;
+    overflow: hidden;
+    border-radius: 20px !important;
+  }
+
+  .content .rounded img {
+    display: flex;
+    width: 100%;
+  }
+
+  .content .firstImage {
+    display: flex;
+    height: 150px;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: space-between;
+    flex-direction: column;
+  }
+
+}
