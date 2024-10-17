@@ -6,14 +6,15 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Work } from './components/Pages/Work';
 import { About } from './components/Pages/About';
 import { Resume } from './components/Pages/Resume';
+import { NavBar } from './components/NavBar/NavBar';
 
 function App() {
   return (
     <div className={style.context}>
       <Header text={'test'} />
 
-
       <BrowserRouter>
+        <NavBar />
         <Routes>
           <Route path="/" element={<Grid />}>
             <Route index element={<Work />} />

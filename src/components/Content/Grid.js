@@ -6,7 +6,7 @@ export const Grid = ({
 }) => {
   return(
       <>
-        <NavBar />
+        {/* <NavBar /> */}
         <Outlet />
       </>
   )
