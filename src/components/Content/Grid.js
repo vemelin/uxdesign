@@ -1,6 +1,6 @@
 import style from './Grid.module.scss';
 import work1 from '../../portfolio_assets/bulkSignature.jpg'
-import work2 from '../../portfolio_assets/example1.jpg'
+import work2 from '../../portfolio_assets/mediametrics.jpg'
 import work3 from '../../portfolio_assets/example2.jpg'
 import work4 from '../../portfolio_assets/example3.jpg'
 import work5 from '../../portfolio_assets//fleetView.jpg'
@@ -8,6 +8,7 @@ import work6 from '../../portfolio_assets/ToyotaOEM_MLP.jpg'
 import work7 from '../../portfolio_assets/tenTrucks.png'
 import work8 from '../../portfolio_assets/kerkman.jpg'
 import work9 from '../../portfolio_assets/dealersocket_dashboard.jpg'
+import work10 from '../../portfolio_assets/tep.jpg'
 
 export const Grid = ({
   ...props
@@ -79,8 +80,8 @@ export const Grid = ({
         </div>
         
         <div className={[style.right, style.rounded].join(' ')}>
-          <a href='#' target='_blank'>
-            {/* <img src={work8} /> */}
+          <a href='https://www.figma.com/proto/1wkq1MuCHG11boDh849LQa/Portfolio?page-id=5069%3A3&node-id=5069-4&node-type=frame&viewport=640%2C489%2C0.08&t=hRtDsisvKoAMFrun-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=5069%3A4' target='_blank'>
+            <img src={work10} />
           </a>
         </div>
       </div>
