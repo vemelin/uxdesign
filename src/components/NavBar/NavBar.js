@@ -91,7 +91,7 @@ export const NavBar = ({ ...props }) => {
         </div>
 
         <div className={style.contactMe}>
-            <span>Contact Me</span>
+            <span>Contact</span>
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="33" viewBox="0 0 32 33" fill="none">
               <rect y="0.5" width="32" height="32" rx="16" fill="white" fill-opacity="0.2"/>
               <path d="M16.5534 10.2144L12.8087 19.5934L13.9538 22.1957L16.171 21.1823L19.9947 11.4305L16.5534 10.2144Z" stroke="#444854" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
